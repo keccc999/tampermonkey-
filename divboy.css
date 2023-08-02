@@ -8,13 +8,21 @@ body {
           }
      
 
- input {
+ button {
             border: none;
             padding: 10px;
             border-radius: 10px;
             box-shadow: none;
           }
+
  div{
         
         margin-top: 10px
  }
+
+  input {
+            border: none;
+            padding: 10px;
+            border-radius: 10px;
+            box-shadow: none;
+          }
